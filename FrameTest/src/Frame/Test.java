@@ -2,7 +2,7 @@ package Frame;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//测试git
 public class Test {
 	/*
 	 * 通过泛型，规定list添加内容
